@@ -1,2 +1,2 @@
-# SampleProject hi
+# SampleProject
 SampleProject for Jenkins Training 
